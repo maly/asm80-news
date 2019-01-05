@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: ASM80.com News
 description: A log of new features
+permalink: /:title:output_ext
