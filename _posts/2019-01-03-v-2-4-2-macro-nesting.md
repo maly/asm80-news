@@ -1,9 +1,23 @@
 ---
 layout: post
-title: Version 2.5.0 - partial includes
+title: Version 2.4.2 - Macro nesting
 ---
 
-2.5.0
+2.4.2
 =====
 
-Partial includes
+Macro nesting
+-------------
+
+Now you can nest macro in another macro:
+
+```
+.macro one
+ ld c,%%1
+.endm
+
+.macro two
+ one 1
+ add a,c
+.endm
+```
