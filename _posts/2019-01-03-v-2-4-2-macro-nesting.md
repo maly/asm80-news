@@ -3,13 +3,8 @@ layout: post
 title: Version 2.4.2 - Macro nesting
 ---
 
-2.4.2
-=====
 
-Macro nesting
--------------
-
-Now you can nest macro in another macro:
+Now you can nest a macro in another macro:
 
 ```
 .macro one
