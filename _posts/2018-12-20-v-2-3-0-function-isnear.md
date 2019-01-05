@@ -14,3 +14,4 @@ Useful for some macros, where you need to decide between near and far jump.
   jmp %%1
  .endif
 .endm
+```
