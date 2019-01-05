@@ -1,9 +1,4 @@
 ---
 layout: post
-title: Version 2.5.0 - partial includes
+title: Version 2.0.1 - Compile and Send to Terminal
 ---
-
-2.5.0
-=====
-
-Partial includes

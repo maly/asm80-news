@@ -1,9 +1,4 @@
 ---
 layout: post
-title: Version 2.5.0 - partial includes
+title: Version 2.1.0 - ANSI sequences in a terminal
 ---
-
-2.5.0
-=====
-
-Partial includes
